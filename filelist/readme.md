@@ -1,6 +1,6 @@
 # 1. Step
 Build source : go build strcontent.go or in docker 
-docker run --rm -v "$PWD":/usr/src/myapp -w /usr/src/myapp golang:alpine go build -v
+docker run --rm -v "$PWD":/usr/src/encapp -w /usr/src/encapp golang:alpine go build -v
 # 2. Step
 Build application in docker container: docker build -t enclist .
 # 3. Step
