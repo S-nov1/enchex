@@ -1,0 +1,44 @@
+STIM
+LIS terminal
+Version
+Number
+Control unit
+Communication error
+Scanner
+Scanner test
+Scanner start-up
+Scanner error
+Repeat
+km/h
+Drive unit
+Drive unit test
+Drive unit  error
+Initial setup 
+Initial setup error
+Auto
+Gap
+Stripe
+Distance
+Line width
+Setting AUTO
+Setting SEMI
+Start Stripe
+Start Gap
+Record
+Scanner sensitiveness
+Cycle correction
+Required
+Factual 
+Stripe correction
+Start
+End 
+Permit
+Statistics 
+View settings
+Command delay
+Drive unit frames
+Stripe location 
+Factory settings
+no   yes 
+Reset statistics
+Backup to factory settings
